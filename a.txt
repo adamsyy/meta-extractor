@@ -1,0 +1,1462 @@
+
+7 SHAPE- shift
+7 SHAPE- shift
+7 SHAPE- shift
+
+8 MATERIAL- synthetic
+8 SHAPE- shift
+8 SHAPE- shift
+8 SHAPE- shift
+8 SHAPE- sheath
+
+9 MATERIAL- sheer
+9 MATERIAL- synthetic
+9 SHAPE- sheath
+9 SHAPE- sheath
+
+10 LENGTH- maxi
+10 LENGTH- maxi
+
+11 LENGTH- short
+11 SHAPE- shift
+
+12 DESIGN- lace
+12 DESIGN- lace
+12 MATERIAL- sheer
+12 SHAPE- sheath
+12 SHAPE- sheath
+
+13 MATERIAL- knit
+13 MATERIAL- tiered
+13 SLEEVE- sleeveless
+
+14 OCCASION- casual
+
+15 DESIGN- lace
+15 DESIGN- soft
+15 LENGTH- maxi
+15 LENGTH- maxi
+
+16 DESIGN- floral
+16 DESIGN- soft
+16 SHAPE- slip
+
+
+18 DESIGN- floral
+18 DESIGN- print
+18 LENGTH- knee
+18 MATERIAL- knit
+
+19 MATERIAL- knit
+19 MATERIAL- tiered
+19 SLEEVE- sleeveless
+
+20 SHAPE- stretch
+
+21 MATERIAL- knit
+21 NECKLINE- tie
+
+22 DESIGN- lace
+22 DESIGN- lace
+22 SHAPE- shift
+
+23 MATERIAL- knit
+
+24 NECKLINE- keyhole
+
+25 NECKLINE- tie
+25 SLEEVE- sleeveless
+
+26 DESIGN- soft
+26 SHAPE- shift
+26 SHAPE- shift
+
+27 NECKLINE- keyhole
+27 NECKLINE- tie
+
+28 DESIGN- floral
+28 LENGTH- mini
+28 LENGTH- mini
+28 MATERIAL- knit
+28 SLEEVE- sleeveless
+
+29 DESIGN- floral
+29 DESIGN- lace
+29 MATERIAL- woven
+
+30 LENGTH- short
+30 LENGTH- knee
+30 OCCASION- work
+30 SHAPE- wrap
+30 SHAPE- wrap
+30 SHAPE- slip
+
+31 OCCASION- work
+
+32 DESIGN- print
+32 MATERIAL- woven
+32 MATERIAL- polyester
+32 NECKLINE- tie
+32 OCCASION- casual
+
+
+34 DESIGN- print
+34 DESIGN- print
+34 MATERIAL- knit
+34 NECKLINE- keyhole
+34 SHAPE- shift
+34 SHAPE- shift
+
+35 MATERIAL- ruffled
+35 MATERIAL- ruffled
+35 NECKLINE- tie
+35 OCCASION- work
+
+36 DESIGN- print
+36 DESIGN- print
+36 LENGTH- maxi
+36 LENGTH- maxi
+
+37 NECKLINE- keyhole
+37 SHAPE- wrap
+
+38 DESIGN- print
+38 DESIGN- print
+38 MATERIAL- knit
+38 SHAPE- sheath
+38 SHAPE- sheath
+
+39 DESIGN- lace
+39 DESIGN- lace
+
+40 DESIGN- lace
+40 NECKLINE- keyhole
+
+41 LENGTH- knee
+41 SHAPE- flare
+
+42 MATERIAL- cotton
+42 MATERIAL- ruffled
+
+43 LENGTH- knee
+43 SHAPE- flare
+
+44 MATERIAL- knit
+44 MATERIAL- knit
+44 SHAPE- stretch
+44 SHAPE- stretch
+
+45 MATERIAL- satin
+45 SHAPE- flare
+
+
+47 SHAPE- flare
+47 SHAPE- round
+47 SHAPE- stretch
+
+48 DESIGN- lace
+48 MATERIAL- ruffled
+48 SHAPE- flare
+
+49 DESIGN- lace
+49 MATERIAL- ruffled
+49 SHAPE- flare
+
+50 MATERIAL- polyester
+
+51 SHAPE- flare
+51 SHAPE- round
+
+
+53 LENGTH- knee
+53 MATERIAL- woven
+53 SHAPE- fitted
+53 SHAPE- stretch
+53 SLEEVE- sleeveless
+53 SLEEVE- sleeveless
+
+
+55 LENGTH- little
+
+56 DESIGN- floral
+56 DESIGN- print
+56 DESIGN- print
+56 MATERIAL- woven
+56 SHAPE- shift
+56 SHAPE- shift
+
+57 SHAPE- stretch
+57 SHAPE- sheath
+
+58 MATERIAL- knit
+58 MATERIAL- knit
+58 MATERIAL- cotton
+58 MATERIAL- natural
+
+59 LENGTH- little
+
+60 MATERIAL- woven
+60 MATERIAL- cotton
+60 MATERIAL- natural
+
+61 LENGTH- knee
+61 MATERIAL- knit
+61 MATERIAL- knit
+61 SHAPE- skirt
+
+
+
+
+
+
+
+
+
+
+
+
+73 MATERIAL- polyester
+
+
+75 MATERIAL- rayon
+
+76 MATERIAL- viscose
+
+
+
+79 LENGTH- mini
+
+80 MATERIAL- rayon
+80 SHAPE- skirt
+
+
+
+83 DESIGN- print
+83 NECKLINE- deep
+83 SHAPE- shift
+
+84 DESIGN- lace
+84 SHAPE- sheath
+84 SHAPE- slip
+
+85 MATERIAL- polyester
+
+86 MATERIAL- cotton
+
+87 MATERIAL- ruffled
+87 SHAPE- shift
+
+88 DESIGN- floral
+88 NECKLINE- tie
+88 SHAPE- fitted
+
+89 DESIGN- soft
+89 MATERIAL- knit
+
+90 MATERIAL- cotton
+90 MATERIAL- tiered
+90 SHAPE- skirt
+
+
+
+
+94 DESIGN- print
+94 LENGTH- midi
+
+95 DESIGN- pattern
+95 MATERIAL- cotton
+
+96 MATERIAL- knit
+
+97 DESIGN- pattern
+
+
+
+
+101 LENGTH- little
+101 SHAPE- shift
+
+102 LENGTH- maxi
+
+
+104 MATERIAL- clean
+104 MATERIAL- cotton
+104 MATERIAL- ruffled
+104 SLEEVE- 3/4
+
+105 DESIGN- print
+
+106 DESIGN- other
+106 LENGTH- maxi
+
+107 LENGTH- maxi
+107 MATERIAL- knit
+107 OCCASION- casual
+107 SHAPE- slip
+
+108 MATERIAL- woven
+108 SHAPE- flowy
+
+109 DESIGN- pattern
+109 MATERIAL- cotton
+
+110 DESIGN- pattern
+110 MATERIAL- cotton
+110 SHAPE- skirt
+
+111 DESIGN- print
+111 LENGTH- midi
+
+
+113 SHAPE- flowy
+
+114 DESIGN- floral
+114 LENGTH- midi
+
+
+116 LENGTH- midi
+116 MATERIAL- knit
+116 NECKLINE- tie
+
+117 DESIGN- print
+117 LENGTH- short
+117 LENGTH- short
+117 MATERIAL- cotton
+
+118 DESIGN- pattern
+118 MATERIAL- tiered
+
+119 SHAPE- shift
+119 SHAPE- round
+
+120 DESIGN- print
+
+121 NECKLINE- tie
+
+
+123 DESIGN- floral
+123 DESIGN- print
+123 LENGTH- short
+
+124 DESIGN- print
+124 MATERIAL- faux
+124 WEATHER- summer
+
+125 DESIGN- lace
+125 DESIGN- soft
+
+126 MATERIAL- ruffled
+
+127 DESIGN- print
+127 NECKLINE- deep
+
+128 DESIGN- print
+128 MATERIAL- sheer
+
+129 MATERIAL- ruffled
+129 SHAPE- shift
+
+130 MATERIAL- ruffled
+130 MATERIAL- knit
+
+131 MATERIAL- knit
+
+132 DESIGN- floral
+132 OCCASION- casual
+132 SLEEVE- sleeveless
+
+
+134 LENGTH- maxi
+134 MATERIAL- satin
+134 MATERIAL- tiered
+
+135 MATERIAL- knit
+135 MATERIAL- knit
+135 OCCASION- work
+135 SHAPE- skirt
+
+136 SHAPE- skirt
+
+
+138 LENGTH- short
+138 MATERIAL- woven
+138 NECKLINE- deep
+
+139 LENGTH- short
+139 SHAPE- shift
+139 SHAPE- shift
+
+
+141 MATERIAL- sheer
+141 SHAPE- shift
+
+142 MATERIAL- ruffled
+
+
+144 MATERIAL- cotton
+
+
+
+147 DESIGN- lace
+147 DESIGN- floral
+
+148 SHAPE- stretch
+
+149 OCCASION- party
+
+150 DESIGN- print
+150 SHAPE- skirt
+150 SLEEVE- sleeveless
+
+151 SHAPE- wrap
+
+
+153 SHAPE- skirt
+
+154 DESIGN- pattern
+154 LENGTH- midi
+154 MATERIAL- sheer
+
+155 MATERIAL- knit
+
+156 MATERIAL- sheer
+156 OCCASION- party
+
+157 DESIGN- print
+157 SHAPE- skirt
+
+158 MATERIAL- knit
+
+159 MATERIAL- woven
+
+160 MATERIAL- cotton
+
+161 DESIGN- print
+
+
+
+164 SHAPE- shift
+164 WEATHER- summer
+
+165 LENGTH- mini
+
+166 LENGTH- midi
+
+
+
+
+170 DESIGN- soft
+
+
+172 MATERIAL- cotton
+
+173 DESIGN- floral
+173 DESIGN- print
+
+
+
+
+177 LENGTH- mini
+177 OCCASION- party
+
+178 SHAPE- wrap
+
+179 LENGTH- midi
+
+180 DESIGN- pattern
+180 NECKLINE- keyhole
+180 SLEEVE- sleeveless
+
+181 DESIGN- print
+181 LENGTH- short
+181 MATERIAL- ruffled
+181 SHAPE- shift
+
+182 MATERIAL- knit
+
+183 MATERIAL- sheer
+183 MATERIAL- sheer
+
+184 DESIGN- floral
+184 DESIGN- print
+
+
+186 LENGTH- midi
+186 MATERIAL- cotton
+
+187 MATERIAL- cotton
+
+188 NECKLINE- tie
+188 SHAPE- slip
+188 SHAPE- round
+
+189 MATERIAL- knit
+189 OCCASION- casual
+189 SHAPE- shift
+
+190 DESIGN- pattern
+
+191 MATERIAL- cotton
+
+192 MATERIAL- sheer
+192 MATERIAL- sheer
+
+
+194 DESIGN- floral
+194 MATERIAL- natural
+194 MATERIAL- faux
+194 MATERIAL- sheer
+194 SHAPE- slip
+
+195 MATERIAL- satin
+195 SHAPE- flare
+
+196 LENGTH- midi
+
+
+198 MATERIAL- sheer
+198 MATERIAL- sheer
+
+199 MATERIAL- ruffled
+
+200 SHAPE- shift
+
+201 LENGTH- midi
+201 MATERIAL- sheer
+
+202 SHAPE- skirt
+
+203 SHAPE- skirt
+
+204 SHAPE- sheath
+
+205 LENGTH- maxi
+
+206 DESIGN- lace
+
+207 DESIGN- lace
+
+208 NECKLINE- tie
+
+209 LENGTH- midi
+
+210 LENGTH- maxi
+210 MATERIAL- cotton
+
+
+212 LENGTH- maxi
+
+
+
+
+216 DESIGN- pattern
+216 SHAPE- skirt
+
+217 DESIGN- floral
+217 DESIGN- lace
+217 SHAPE- sheath
+
+
+
+220 MATERIAL- sheer
+
+221 LENGTH- maxi
+221 SLEEVE- sleeveless
+
+222 MATERIAL- sheer
+
+
+224 MATERIAL- sheer
+224 SHAPE- skirt
+
+225 MATERIAL- sheer
+
+226 DESIGN- print
+226 DESIGN- soft
+226 LENGTH- maxi
+
+
+
+
+
+231 MATERIAL- ruffled
+231 SHAPE- shift
+
+232 DESIGN- lace
+232 MATERIAL- sheer
+232 SHAPE- slip
+
+233 LENGTH- midi
+
+234 LENGTH- midi
+
+235 OCCASION- party
+235 SHAPE- skirt
+235 SHAPE- skirt
+
+236 DESIGN- floral
+236 MATERIAL- sheer
+
+237 SHAPE- shift
+
+
+239 SHAPE- flare
+
+
+
+242 DESIGN- print
+242 MATERIAL- sheer
+
+243 SHAPE- flare
+243 SLEEVE- sleeveless
+
+244 MATERIAL- knit
+
+245 LENGTH- midi
+245 MATERIAL- satin
+245 NECKLINE- keyhole
+
+
+
+248 DESIGN- floral
+248 MATERIAL- knit
+248 SHAPE- shift
+248 SHAPE- shift
+
+249 MATERIAL- knit
+249 SHAPE- sheath
+249 SHAPE- skirt
+249 SHAPE- round
+
+
+251 LENGTH- short
+251 LENGTH- midi
+
+252 DESIGN- floral
+
+
+254 MATERIAL- woven
+
+255 NECKLINE- deep
+255 SHAPE- sheath
+
+256 DESIGN- floral
+
+257 DESIGN- other
+257 SHAPE- round
+
+
+259 OCCASION- party
+259 SHAPE- skirt
+
+
+261 DESIGN- floral
+261 DESIGN- print
+261 DESIGN- floral
+261 DESIGN- floral
+
+
+263 LENGTH- short
+263 LENGTH- mini
+
+264 DESIGN- floral
+264 DESIGN- print
+264 NECKLINE- keyhole
+264 SHAPE- slip
+
+
+266 LENGTH- midi
+266 NECKLINE- deep
+
+267 DESIGN- soft
+267 MATERIAL- knit
+
+
+
+270 LENGTH- knee
+
+271 LENGTH- midi
+
+272 DESIGN- pattern
+272 LENGTH- midi
+
+273 DESIGN- print
+273 SLEEVE- sleeveless
+
+274 DESIGN- other
+274 LENGTH- midi
+
+
+276 MATERIAL- polyester
+
+277 LENGTH- long
+277 LENGTH- midi
+
+278 LENGTH- long
+278 MATERIAL- knit
+278 NECKLINE- keyhole
+278 SHAPE- skirt
+
+
+280 SHAPE- sheath
+
+281 LENGTH- mini
+
+282 MATERIAL- rayon
+
+
+284 DESIGN- print
+284 LENGTH- midi
+284 NECKLINE- deep
+
+
+286 LENGTH- mini
+286 LENGTH- long
+286 MATERIAL- knit
+286 OCCASION- casual
+
+287 LENGTH- midi
+287 NECKLINE- deep
+
+288 LENGTH- midi
+288 NECKLINE- deep
+
+289 MATERIAL- spandex
+
+290 MATERIAL- polyester
+
+291 MATERIAL- knit
+291 SHAPE- sheath
+291 SHAPE- stretch
+291 SHAPE- sheath
+
+
+
+294 DESIGN- soft
+294 OCCASION- work
+294 SHAPE- shift
+294 SHAPE- shift
+
+295 LENGTH- medium
+
+296 NECKLINE- deep
+
+297 SHAPE- skirt
+
+298 DESIGN- floral
+298 NECKLINE- deep
+
+299 DESIGN- floral
+299 DESIGN- print
+299 DESIGN- floral
+299 MATERIAL- knit
+299 MATERIAL- synthetic
+299 SHAPE- sheath
+
+300 NECKLINE- deep
+
+301 SHAPE- stretch
+
+302 MATERIAL- knit
+302 MATERIAL- knit
+302 SHAPE- shift
+302 SHAPE- shift
+
+303 NECKLINE- keyhole
+
+
+305 LENGTH- medium
+
+306 LENGTH- medium
+
+307 LENGTH- short
+307 MATERIAL- natural
+
+308 SHAPE- shift
+
+309 MATERIAL- natural
+309 NECKLINE- tie
+309 NECKLINE- tie
+
+310 MATERIAL- natural
+310 SHAPE- shift
+
+
+312 NECKLINE- tie
+312 NECKLINE- tie
+
+313 MATERIAL- clean
+313 MATERIAL- clean
+
+
+315 SHAPE- stretch
+
+
+
+318 MATERIAL- sheer
+318 MATERIAL- clean
+
+319 MATERIAL- sheer
+319 MATERIAL- clean
+319 NECKLINE- keyhole
+
+320 MATERIAL- clean
+
+
+322 MATERIAL- knit
+322 MATERIAL- knit
+322 MATERIAL- knit
+322 SHAPE- stretch
+322 SLEEVE- sleeveless
+
+323 DESIGN- floral
+323 MATERIAL- knit
+323 MATERIAL- knit
+
+324 MATERIAL- knit
+324 MATERIAL- natural
+
+325 LENGTH- medium
+
+
+327 LENGTH- medium
+327 SHAPE- skirt
+
+328 MATERIAL- natural
+
+329 LENGTH- mini
+
+330 DESIGN- soft
+330 MATERIAL- knit
+
+331 LENGTH- mini
+331 MATERIAL- ruffled
+
+332 DESIGN- floral
+332 MATERIAL- sheer
+332 MATERIAL- ruffled
+
+333 MATERIAL- tiered
+333 MATERIAL- knit
+333 SHAPE- sheath
+
+
+
+
+337 LENGTH- midi
+337 SHAPE- stretch
+
+
+339 DESIGN- print
+339 LENGTH- maxi
+339 SHAPE- wrap
+
+
+
+342 LENGTH- short
+
+343 DESIGN- print
+343 LENGTH- little
+
+
+345 MATERIAL- cotton
+345 SHAPE- stretch
+
+346 DESIGN- print
+346 LENGTH- long
+
+347 DESIGN- floral
+347 LENGTH- long
+
+348 OCCASION- party
+348 SHAPE- stretch
+
+349 OCCASION- party
+
+
+
+
+353 DESIGN- floral
+
+
+355 SHAPE- wrap
+
+356 DESIGN- lace
+356 DESIGN- lace
+356 MATERIAL- clean
+
+357 LENGTH- medium
+
+
+359 MATERIAL- woven
+359 SHAPE- tight
+
+
+
+362 MATERIAL- natural
+362 NECKLINE- tie
+362 SHAPE- flowy
+
+363 DESIGN- print
+363 MATERIAL- knit
+363 SHAPE- sheath
+
+364 MATERIAL- knit
+364 SHAPE- sheath
+364 SHAPE- shift
+
+365 LENGTH- short
+
+366 SHAPE- skirt
+
+367 DESIGN- soft
+367 MATERIAL- woven
+367 MATERIAL- cotton
+367 SHAPE- shift
+
+
+369 MATERIAL- natural
+369 NECKLINE- tie
+369 SHAPE- flowy
+
+
+371 DESIGN- print
+371 MATERIAL- knit
+371 SHAPE- sheath
+
+372 MATERIAL- rayon
+
+373 SHAPE- sheath
+373 SHAPE- stretch
+373 SHAPE- sheath
+373 SLEEVE- sleeveless
+
+374 SHAPE- sheath
+374 SHAPE- stretch
+374 SLEEVE- sleeveless
+
+
+
+
+378 SHAPE- round
+
+
+380 MATERIAL- clean
+
+
+382 MATERIAL- clean
+
+383 MATERIAL- polyester
+383 NECKLINE- tie
+
+
+385 LENGTH- midi
+
+386 DESIGN- print
+386 DESIGN- soft
+386 MATERIAL- cotton
+386 SHAPE- shift
+386 SHAPE- shift
+386 SLEEVE- sleeveless
+
+387 DESIGN- print
+387 OCCASION- work
+387 SHAPE- sheath
+387 SHAPE- stretch
+
+
+
+390 DESIGN- print
+390 MATERIAL- sheer
+
+391 LENGTH- short
+
+
+393 LENGTH- maxi
+393 OCCASION- party
+393 SHAPE- shift
+
+394 SHAPE- stretch
+
+395 SHAPE- stretch
+
+
+
+
+
+400 LENGTH- short
+
+401 DESIGN- floral
+
+402 DESIGN- soft
+402 SHAPE- shift
+
+403 MATERIAL- knit
+403 SHAPE- fitted
+
+404 SHAPE- sheath
+404 SLEEVE- sleeveless
+
+405 DESIGN- print
+405 LENGTH- midi
+405 MATERIAL- knit
+
+406 DESIGN- lace
+
+407 SHAPE- shift
+407 SHAPE- shift
+
+408 MATERIAL- clean
+408 MATERIAL- clean
+
+409 SHAPE- sheath
+409 SHAPE- sheath
+
+410 SHAPE- sheath
+410 SHAPE- sheath
+
+411 LENGTH- little
+411 SHAPE- shift
+
+412 DESIGN- pattern
+412 DESIGN- soft
+412 SHAPE- shift
+
+413 MATERIAL- clean
+413 MATERIAL- clean
+
+414 SHAPE- sheath
+414 SHAPE- sheath
+
+415 MATERIAL- polyester
+
+416 SHAPE- sheath
+
+
+
+
+
+
+422 SHAPE- flare
+422 SHAPE- flare
+
+423 SHAPE- flare
+423 SHAPE- flare
+
+424 DESIGN- lace
+424 DESIGN- lace
+
+425 MATERIAL- knit
+425 SHAPE- sheath
+425 SHAPE- sheath
+
+426 MATERIAL- polyester
+
+
+
+429 DESIGN- print
+429 SHAPE- shift
+
+
+431 DESIGN- print
+431 DESIGN- soft
+
+432 MATERIAL- natural
+432 MATERIAL- clean
+
+433 OCCASION- work
+433 OCCASION- work
+
+
+
+
+
+438 MATERIAL- natural
+438 MATERIAL- clean
+
+439 DESIGN- floral
+439 LENGTH- mini
+439 LENGTH- short
+439 MATERIAL- knit
+439 MATERIAL- spandex
+439 SHAPE- flare
+
+440 DESIGN- other
+440 LENGTH- mini
+440 MATERIAL- knit
+440 MATERIAL- polyester
+
+441 MATERIAL- knit
+441 MATERIAL- rayon
+
+442 MATERIAL- knit
+442 MATERIAL- spandex
+442 MATERIAL- polyester
+
+443 DESIGN- print
+443 LENGTH- mini
+443 MATERIAL- cotton
+
+
+
+
+
+448 NECKLINE- keyhole
+
+
+
+
+
+
+454 SLEEVE- 3/4
+
+
+456 LENGTH- short
+456 LENGTH- mini
+456 MATERIAL- knit
+
+
+
+
+460 DESIGN- soft
+460 SHAPE- shift
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+486 LENGTH- knee
+
+487 LENGTH- long
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+522 DESIGN- other
+
+
+
+
+
+
+528 LENGTH- knee
+
+529 LENGTH- long
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+564 DESIGN- other
+
+
+
+567 MATERIAL- polyester
+
+
+569 NECKLINE- keyhole
+
+570 SHAPE- slip
+
+
+
+573 MATERIAL- polyester
+
+
+
+576 NECKLINE- tie
+576 SHAPE- wrap
+576 WEATHER- summer
+
+577 MATERIAL- cotton
+577 MATERIAL- clean
+
+578 LENGTH- mini
+578 LENGTH- long
+578 MATERIAL- knit
+578 MATERIAL- cotton
+
+579 LENGTH- mini
+579 MATERIAL- knit
+579 MATERIAL- spandex
+579 MATERIAL- polyester
+
+580 LENGTH- mini
+580 LENGTH- long
+580 MATERIAL- knit
+580 MATERIAL- spandex
+
+581 LENGTH- midi
+581 MATERIAL- knit
+581 MATERIAL- spandex
+581 SHAPE- skirt
+581 SLEEVE- sleeveless
+
+582 LENGTH- mini
+582 LENGTH- short
+582 MATERIAL- woven
+582 MATERIAL- rayon
+582 SHAPE- wrap
+582 SHAPE- flare
+
+583 LENGTH- mini
+583 LENGTH- long
+583 MATERIAL- knit
+
+584 LENGTH- mini
+584 MATERIAL- cotton
+
+585 SHAPE- skirt
+585 SHAPE- skirt
+
+
+587 DESIGN- floral
+587 MATERIAL- woven
+587 SHAPE- skirt
+
+588 MATERIAL- knit
+588 SHAPE- skirt
+
+589 SHAPE- skirt
+
+590 DESIGN- soft
+
+591 MATERIAL- clean
+
+592 MATERIAL- knit
+592 SLEEVE- 3/4
+592 SLEEVE- 3/4
+
+593 DESIGN- soft
+593 MATERIAL- clean
+
+594 SHAPE- shift
+
+595 SHAPE- sheath
+
+
+597 SHAPE- sheath
+
+598 MATERIAL- polyester
+598 MATERIAL- polyester
+598 NECKLINE- keyhole
+598 SHAPE- slip
+
+599 LENGTH- short
+599 LENGTH- short
+
+600 DESIGN- soft
+
+601 LENGTH- midi
+601 MATERIAL- knit
+601 SHAPE- skirt
+
+
+603 DESIGN- soft
+603 SHAPE- fitted
+603 SHAPE- skirt
+
+604 LENGTH- long
+604 MATERIAL- knit
+
+605 OCCASION- work
+605 OCCASION- party
+605 SHAPE- sheath
+
+606 DESIGN- print
+606 SHAPE- skirt
+
+607 SHAPE- sheath
+
+608 DESIGN- floral
+608 MATERIAL- cotton
+608 WEATHER- summer
+
+609 NECKLINE- tie
+609 NECKLINE- tie
+609 SHAPE- skirt
+
+610 DESIGN- soft
+
+611 MATERIAL- knit
+611 MATERIAL- faux
+
+612 DESIGN- soft
+612 LENGTH- short
+612 NECKLINE- tie
+612 NECKLINE- tie
+
+613 DESIGN- print
+613 LENGTH- little
+613 LENGTH- long
+613 LENGTH- long
+613 MATERIAL- bleach
+613 SHAPE- wrap
+613 SHAPE- wrap
+
+614 SHAPE- sheath
+
+615 LENGTH- maxi
+
+616 DESIGN- floral
+616 DESIGN- print
+616 LENGTH- maxi
+616 MATERIAL- clean
+616 SHAPE- skirt
+616 SHAPE- skirt
+
+617 MATERIAL- tiered
+617 WEATHER- summer
+617 WEATHER- summer
+
+618 DESIGN- soft
+618 LENGTH- little
+618 MATERIAL- tiered
+
+619 LENGTH- midi
+619 LENGTH- long
+619 LENGTH- midi
+
+
+621 DESIGN- pattern
+621 LENGTH- long
+621 NECKLINE- tie
+621 NECKLINE- tie
+621 SLEEVE- sleeveless
+621 SLEEVE- sleeveless
+
+622 DESIGN- pattern
+622 LENGTH- long
+622 NECKLINE- tie
+622 NECKLINE- tie
+622 SLEEVE- sleeveless
+
+623 MATERIAL- faux
+623 SHAPE- sheath
+
+624 LENGTH- midi
+624 OCCASION- party
+624 SHAPE- wrap
+
+625 DESIGN- print
+625 LENGTH- maxi
+625 LENGTH- short
+
+626 DESIGN- print
+626 LENGTH- short
+626 LENGTH- maxi
+
+627 LENGTH- long
+
+628 DESIGN- print
+628 LENGTH- little
+628 LENGTH- long
+628 MATERIAL- sheer
+628 SHAPE- fitted
+
+629 LENGTH- little
+629 LENGTH- long
+629 MATERIAL- sheer
+629 MATERIAL- sheer
+
+630 LENGTH- midi
+630 LENGTH- midi
+630 LENGTH- midi
+630 MATERIAL- tiered
+630 SHAPE- fitted
+
+631 DESIGN- print
+631 LENGTH- maxi
+631 SHAPE- slip
+631 WEATHER- summer
+
+632 DESIGN- soft
+632 LENGTH- little
+632 MATERIAL- tiered
+
+
+634 SHAPE- wrap
+634 SHAPE- wrap
+
