@@ -19,6 +19,7 @@
 
 11 LENGTH- short
 11 SHAPE- shift
+11 SLEEVE- short
 
 12 DESIGN- lace
 12 DESIGN- lace
@@ -90,6 +91,7 @@
 30 SHAPE- wrap
 30 SHAPE- wrap
 30 SHAPE- slip
+30 SLEEVE- short
 
 31 OCCASION- work
 
@@ -288,6 +290,7 @@
 
 106 DESIGN- other
 106 LENGTH- maxi
+106 MATERIAL- other
 
 107 LENGTH- maxi
 107 MATERIAL- knit
@@ -322,6 +325,8 @@
 117 LENGTH- short
 117 LENGTH- short
 117 MATERIAL- cotton
+117 SLEEVE- short
+117 SLEEVE- short
 
 118 DESIGN- pattern
 118 MATERIAL- tiered
@@ -337,6 +342,7 @@
 123 DESIGN- floral
 123 DESIGN- print
 123 LENGTH- short
+123 SLEEVE- short
 
 124 DESIGN- print
 124 MATERIAL- faux
@@ -381,10 +387,12 @@
 138 LENGTH- short
 138 MATERIAL- woven
 138 NECKLINE- deep
+138 SLEEVE- short
 
 139 LENGTH- short
 139 SHAPE- shift
 139 SHAPE- shift
+139 SLEEVE- short
 
 
 141 MATERIAL- sheer
@@ -471,6 +479,7 @@
 181 LENGTH- short
 181 MATERIAL- ruffled
 181 SHAPE- shift
+181 SLEEVE- short
 
 182 MATERIAL- knit
 
@@ -631,6 +640,7 @@
 
 251 LENGTH- short
 251 LENGTH- midi
+251 SLEEVE- short
 
 252 DESIGN- floral
 
@@ -643,6 +653,7 @@
 256 DESIGN- floral
 
 257 DESIGN- other
+257 MATERIAL- other
 257 SHAPE- round
 
 
@@ -658,6 +669,7 @@
 
 263 LENGTH- short
 263 LENGTH- mini
+263 SLEEVE- short
 
 264 DESIGN- floral
 264 DESIGN- print
@@ -685,17 +697,20 @@
 
 274 DESIGN- other
 274 LENGTH- midi
+274 MATERIAL- other
 
 
 276 MATERIAL- polyester
 
 277 LENGTH- long
 277 LENGTH- midi
+277 SLEEVE- long
 
 278 LENGTH- long
 278 MATERIAL- knit
 278 NECKLINE- keyhole
 278 SHAPE- skirt
+278 SLEEVE- long
 
 
 280 SHAPE- sheath
@@ -714,6 +729,7 @@
 286 LENGTH- long
 286 MATERIAL- knit
 286 OCCASION- casual
+286 SLEEVE- long
 
 287 LENGTH- midi
 287 NECKLINE- deep
@@ -738,6 +754,7 @@
 294 SHAPE- shift
 
 295 LENGTH- medium
+295 SLEEVE- medium
 
 296 NECKLINE- deep
 
@@ -766,11 +783,14 @@
 
 
 305 LENGTH- medium
+305 SLEEVE- medium
 
 306 LENGTH- medium
+306 SLEEVE- medium
 
 307 LENGTH- short
 307 MATERIAL- natural
+307 SLEEVE- short
 
 308 SHAPE- shift
 
@@ -817,10 +837,12 @@
 324 MATERIAL- natural
 
 325 LENGTH- medium
+325 SLEEVE- medium
 
 
 327 LENGTH- medium
 327 SHAPE- skirt
+327 SLEEVE- medium
 
 328 MATERIAL- natural
 
@@ -854,6 +876,7 @@
 
 
 342 LENGTH- short
+342 SLEEVE- short
 
 343 DESIGN- print
 343 LENGTH- little
@@ -864,9 +887,11 @@
 
 346 DESIGN- print
 346 LENGTH- long
+346 SLEEVE- long
 
 347 DESIGN- floral
 347 LENGTH- long
+347 SLEEVE- long
 
 348 OCCASION- party
 348 SHAPE- stretch
@@ -886,6 +911,7 @@
 356 MATERIAL- clean
 
 357 LENGTH- medium
+357 SLEEVE- medium
 
 
 359 MATERIAL- woven
@@ -906,6 +932,7 @@
 364 SHAPE- shift
 
 365 LENGTH- short
+365 SLEEVE- short
 
 366 SHAPE- skirt
 
@@ -970,6 +997,7 @@
 390 MATERIAL- sheer
 
 391 LENGTH- short
+391 SLEEVE- short
 
 
 393 LENGTH- maxi
@@ -985,6 +1013,7 @@
 
 
 400 LENGTH- short
+400 SLEEVE- short
 
 401 DESIGN- floral
 
@@ -1080,10 +1109,12 @@
 439 MATERIAL- knit
 439 MATERIAL- spandex
 439 SHAPE- flare
+439 SLEEVE- short
 
 440 DESIGN- other
 440 LENGTH- mini
 440 MATERIAL- knit
+440 MATERIAL- other
 440 MATERIAL- polyester
 
 441 MATERIAL- knit
@@ -1114,6 +1145,7 @@
 456 LENGTH- short
 456 LENGTH- mini
 456 MATERIAL- knit
+456 SLEEVE- short
 
 
 
@@ -1149,6 +1181,7 @@
 486 LENGTH- knee
 
 487 LENGTH- long
+487 SLEEVE- long
 
 
 
@@ -1185,6 +1218,7 @@
 
 
 522 DESIGN- other
+522 MATERIAL- other
 
 
 
@@ -1194,6 +1228,7 @@
 528 LENGTH- knee
 
 529 LENGTH- long
+529 SLEEVE- long
 
 
 
@@ -1230,6 +1265,7 @@
 
 
 564 DESIGN- other
+564 MATERIAL- other
 
 
 
@@ -1257,6 +1293,7 @@
 578 LENGTH- long
 578 MATERIAL- knit
 578 MATERIAL- cotton
+578 SLEEVE- long
 
 579 LENGTH- mini
 579 MATERIAL- knit
@@ -1267,6 +1304,7 @@
 580 LENGTH- long
 580 MATERIAL- knit
 580 MATERIAL- spandex
+580 SLEEVE- long
 
 581 LENGTH- midi
 581 MATERIAL- knit
@@ -1280,10 +1318,12 @@
 582 MATERIAL- rayon
 582 SHAPE- wrap
 582 SHAPE- flare
+582 SLEEVE- short
 
 583 LENGTH- mini
 583 LENGTH- long
 583 MATERIAL- knit
+583 SLEEVE- long
 
 584 LENGTH- mini
 584 MATERIAL- cotton
@@ -1326,6 +1366,8 @@
 
 599 LENGTH- short
 599 LENGTH- short
+599 SLEEVE- short
+599 SLEEVE- short
 
 600 DESIGN- soft
 
@@ -1340,6 +1382,7 @@
 
 604 LENGTH- long
 604 MATERIAL- knit
+604 SLEEVE- long
 
 605 OCCASION- work
 605 OCCASION- party
@@ -1367,6 +1410,7 @@
 612 LENGTH- short
 612 NECKLINE- tie
 612 NECKLINE- tie
+612 SLEEVE- short
 
 613 DESIGN- print
 613 LENGTH- little
@@ -1375,6 +1419,8 @@
 613 MATERIAL- bleach
 613 SHAPE- wrap
 613 SHAPE- wrap
+613 SLEEVE- long
+613 SLEEVE- long
 
 614 SHAPE- sheath
 
@@ -1398,6 +1444,7 @@
 619 LENGTH- midi
 619 LENGTH- long
 619 LENGTH- midi
+619 SLEEVE- long
 
 
 621 DESIGN- pattern
@@ -1405,6 +1452,7 @@
 621 NECKLINE- tie
 621 NECKLINE- tie
 621 SLEEVE- sleeveless
+621 SLEEVE- long
 621 SLEEVE- sleeveless
 
 622 DESIGN- pattern
@@ -1412,6 +1460,7 @@
 622 NECKLINE- tie
 622 NECKLINE- tie
 622 SLEEVE- sleeveless
+622 SLEEVE- long
 
 623 MATERIAL- faux
 623 SHAPE- sheath
@@ -1423,23 +1472,28 @@
 625 DESIGN- print
 625 LENGTH- maxi
 625 LENGTH- short
+625 SLEEVE- short
 
 626 DESIGN- print
 626 LENGTH- short
 626 LENGTH- maxi
+626 SLEEVE- short
 
 627 LENGTH- long
+627 SLEEVE- long
 
 628 DESIGN- print
 628 LENGTH- little
 628 LENGTH- long
 628 MATERIAL- sheer
 628 SHAPE- fitted
+628 SLEEVE- long
 
 629 LENGTH- little
 629 LENGTH- long
 629 MATERIAL- sheer
 629 MATERIAL- sheer
+629 SLEEVE- long
 
 630 LENGTH- midi
 630 LENGTH- midi
@@ -1460,3 +1514,57 @@
 634 SHAPE- wrap
 634 SHAPE- wrap
 
+floral appeared 34 times
+print appeared 52 times
+other appeared 6 times
+lace appeared 23 times
+pattern appeared 13 times
+soft appeared 24 times
+knee appeared 9 times
+midi appeared 34 times
+mini appeared 20 times
+maxi appeared 22 times
+short appeared 23 times
+medium appeared 6 times
+long appeared 19 times
+little appeared 10 times
+other appeared 6 times
+natural appeared 12 times
+woven appeared 13 times
+tiered appeared 10 times
+cotton appeared 25 times
+satin appeared 4 times
+clean appeared 19 times
+synthetic appeared 3 times
+viscose appeared 1 times
+faux appeared 4 times
+ruffled appeared 16 times
+polyester appeared 16 times
+bleach appeared 1 times
+sheer appeared 28 times
+spandex appeared 6 times
+knit appeared 65 times
+rayon appeared 6 times
+tie appeared 26 times
+keyhole appeared 14 times
+deep appeared 11 times
+work appeared 9 times
+casual appeared 6 times
+party appeared 10 times
+stretch appeared 19 times
+flare appeared 16 times
+sheath appeared 41 times
+round appeared 7 times
+slip appeared 11 times
+skirt appeared 33 times
+shift appeared 49 times
+flowy appeared 4 times
+wrap appeared 14 times
+tight appeared 1 times
+fitted appeared 6 times
+sleeveless appeared 21 times
+3/4 appeared 4 times
+short appeared 23 times
+medium appeared 6 times
+long appeared 19 times
+summer appeared 7 times
