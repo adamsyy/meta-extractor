@@ -2,6 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.io.FileReader;
 
 public class Task {
@@ -56,13 +57,21 @@ public class Task {
         } catch (IOException e) {// catch any io exception
             e.printStackTrace();
         }
-      
+
+        HashMap<String, Integer> design = new HashMap<>();
+        HashMap<String, Integer> length = new HashMap<>();
+        HashMap<String, Integer> material = new HashMap<>();
+        HashMap<String, Integer> neckline = new HashMap<>();
+        HashMap<String, Integer> occasion = new HashMap<>();
+        HashMap<String, Integer> shape = new HashMap<>();
+        HashMap<String, Integer> sleeve = new HashMap<>();
+        HashMap<String, Integer> weather = new HashMap<>();
         try {
             BufferedReader br = new BufferedReader(new FileReader("product2.csv"));// reading from the file product2.csv
             int key = 6;
 
             while ((line = br.readLine()) != null) {
-               
+
                 ArrayList<String> smalllistdesign = new ArrayList<String>();
                 ArrayList<String> smalllistlength = new ArrayList<String>();
                 ArrayList<String> smalllistmaterial = new ArrayList<String>();
@@ -77,37 +86,78 @@ public class Task {
                 for (int i = 0; i < employee.length; i++) {
 
                     if (listdesign.contains(employee[i])) {// checking if the element of the array is in the listdesign
-                     
+
                         smalllistdesign.add(employee[i]);
+                        if (design.containsKey(employee[i])) {
+                            design.put(employee[i], design.get(employee[i]) + 1);
+                        } else {
+                            design.put(employee[i], 1);
+                        }
 
                     }
                     if (listlength.contains(employee[i])) {
-                        
+
                         smalllistlength.add(employee[i]);
+                        if (length.containsKey(employee[i])) {
+                            length.put(employee[i], length.get(employee[i]) + 1);
+                        } else {
+                            length.put(employee[i], 1);
+                        }
+
                     }
                     if (listmaterial.contains(employee[i])) {
-                        
+
                         smalllistmaterial.add(employee[i]);
+                        if (material.containsKey(employee[i])) {
+                            material.put(employee[i], material.get(employee[i]) + 1);
+                        } else {
+                            material.put(employee[i], 1);
+                        }
                     }
                     if (listneckline.contains(employee[i])) {
-                        
+
                         smalllistneckline.add(employee[i]);
+                        if (neckline.containsKey(employee[i])) {
+                            neckline.put(employee[i], neckline.get(employee[i]) + 1);
+                        } else {
+                            neckline.put(employee[i], 1);
+                        }
                     }
                     if (listoccassion.contains(employee[i])) {
-                        
+
                         smalllistoccassion.add(employee[i]);
+                        if (occasion.containsKey(employee[i])) {
+                            occasion.put(employee[i], occasion.get(employee[i]) + 1);
+                        } else {
+                            occasion.put(employee[i], 1);
+                        }
                     }
                     if (listshape.contains(employee[i])) {
-                        
+
                         smalllistshape.add(employee[i]);
+                        if (shape.containsKey(employee[i])) {
+                            shape.put(employee[i], shape.get(employee[i]) + 1);
+                        } else {
+                            shape.put(employee[i], 1);
+                        }
                     }
                     if (listsleeve.contains(employee[i])) {
-                        
+
                         smalllistsleeve.add(employee[i]);
+                        if (sleeve.containsKey(employee[i])) {
+                            sleeve.put(employee[i], sleeve.get(employee[i]) + 1);
+                        } else {
+                            sleeve.put(employee[i], 1);
+                        }
                     }
                     if (listweather.contains(employee[i].toString())) {
-                        
+
                         smalllistweather.add(employee[i]);
+                        if (weather.containsKey(employee[i])) {
+                            weather.put(employee[i], weather.get(employee[i]) + 1);
+                        } else {
+                            weather.put(employee[i], 1);
+                        }
 
                     }
                 }
@@ -143,17 +193,15 @@ public class Task {
                 for (int i = 0; i < smalllistweather.size(); i++) {
                     System.out.println(key + " " + "WEATHER- " + smalllistweather.get(i));
                 }
-               ;
-                
-                
-              
+                ;
+
                 ++key;
                 System.out.println();
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
-//bonus task
+        // bonus task
 
     }
 }
