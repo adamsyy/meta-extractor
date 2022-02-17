@@ -11,4 +11,6 @@ engine.
 Such metadata can be found as properties on the product page or inside the product description
 as unstructured text. Some visual items like sleeve and length can also be detected by
 analyzing the product image.
-
+</br>
+Key value pair example directory:
+![link](https://docs.google.com/spreadsheets/d/1-nFaJ-zxY2_ox7axwtLQe1lyvTXu6bgAHiZjNnyWSPM/edit#gid=897781420)
