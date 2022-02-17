@@ -13,4 +13,4 @@ as unstructured text. Some visual items like sleeve and length can also be detec
 analyzing the product image.
 </br>
 Key value pair example directory:
-![link](https://docs.google.com/spreadsheets/d/1-nFaJ-zxY2_ox7axwtLQe1lyvTXu6bgAHiZjNnyWSPM/edit#gid=897781420)
+[link](https://docs.google.com/spreadsheets/d/1-nFaJ-zxY2_ox7axwtLQe1lyvTXu6bgAHiZjNnyWSPM/edit#gid=897781420)
