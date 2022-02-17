@@ -57,7 +57,7 @@ public class Task {
         } catch (IOException e) {// catch any io exception
             e.printStackTrace();
         }
-
+        // hashmap for mainting the count of each key
         HashMap<String, Integer> design = new HashMap<>();
         HashMap<String, Integer> length = new HashMap<>();
         HashMap<String, Integer> material = new HashMap<>();
@@ -88,7 +88,9 @@ public class Task {
                     if (listdesign.contains(employee[i])) {// checking if the element of the array is in the listdesign
 
                         smalllistdesign.add(employee[i]);
-                        if (design.containsKey(employee[i])) {
+                        if (design.containsKey(employee[i])) { // if the key is already present in the hashmap, then
+                                                               // increment the count else add the key and set the count
+                                                               // as one
                             design.put(employee[i], design.get(employee[i]) + 1);
                         } else {
                             design.put(employee[i], 1);
@@ -203,5 +205,15 @@ public class Task {
         }
         // bonus task
 
+        // summary report of all the data that have been extracted
+        // count of how many products does each tag contain
+        design.forEach((k, v) -> System.out.println(k + " appeared " + v + " times"));
+        length.forEach((k, v) -> System.out.println(k + " appeared " + v + " times"));
+        material.forEach((k, v) -> System.out.println(k + " appeared " + v + " times"));
+        neckline.forEach((k, v) -> System.out.println(k + " appeared " + v + " times"));
+        occasion.forEach((k, v) -> System.out.println(k + " appeared " + v + " times"));
+        shape.forEach((k, v) -> System.out.println(k + " appeared " + v + " times"));
+        sleeve.forEach((k, v) -> System.out.println(k + " appeared " + v + " times"));
+        weather.forEach((k, v) -> System.out.println(k + " appeared " + v + " times"));
     }
 }
