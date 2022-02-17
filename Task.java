@@ -56,29 +56,13 @@ public class Task {
         } catch (IOException e) {// catch any io exception
             e.printStackTrace();
         }
-        int designcount = 0;
-        int lengthcount = 0;
-        int materialcount = 0;
-        int necklinecount = 0;
-        int occassioncount = 0;
-        int shapecount = 0;
-        int sleevecount = 0;
-        int weathercount = 0;
-
+      
         try {
             BufferedReader br = new BufferedReader(new FileReader("product2.csv"));// reading from the file product2.csv
             int key = 6;
 
             while ((line = br.readLine()) != null) {
-                Boolean design = false;
-                Boolean length = false;
-                Boolean material = false;
-                Boolean neckline = false;
-                Boolean occassion = false;
-                Boolean shape = false;
-                Boolean sleeve = false;
-                Boolean weather = false;
-
+               
                 ArrayList<String> smalllistdesign = new ArrayList<String>();
                 ArrayList<String> smalllistlength = new ArrayList<String>();
                 ArrayList<String> smalllistmaterial = new ArrayList<String>();
@@ -93,36 +77,36 @@ public class Task {
                 for (int i = 0; i < employee.length; i++) {
 
                     if (listdesign.contains(employee[i])) {// checking if the element of the array is in the listdesign
-                        design = true;
+                     
                         smalllistdesign.add(employee[i]);
 
                     }
                     if (listlength.contains(employee[i])) {
-                        length = true;
+                        
                         smalllistlength.add(employee[i]);
                     }
                     if (listmaterial.contains(employee[i])) {
-                        material = true;
+                        
                         smalllistmaterial.add(employee[i]);
                     }
                     if (listneckline.contains(employee[i])) {
-                        neckline = true;
+                        
                         smalllistneckline.add(employee[i]);
                     }
                     if (listoccassion.contains(employee[i])) {
-                        occassion = true;
+                        
                         smalllistoccassion.add(employee[i]);
                     }
                     if (listshape.contains(employee[i])) {
-                        shape = true;
+                        
                         smalllistshape.add(employee[i]);
                     }
                     if (listsleeve.contains(employee[i])) {
-                        sleeve = true;
+                        
                         smalllistsleeve.add(employee[i]);
                     }
                     if (listweather.contains(employee[i].toString())) {
-                        weather = true;
+                        
                         smalllistweather.add(employee[i]);
 
                     }
@@ -159,37 +143,17 @@ public class Task {
                 for (int i = 0; i < smalllistweather.size(); i++) {
                     System.out.println(key + " " + "WEATHER- " + smalllistweather.get(i));
                 }
-                if (design == true) {
-                    designcount++;
-                }
-                if (length == true) {
-                    lengthcount++;
-                }
-                if (material == true) {
-                    materialcount++;
-                }
-                if (neckline == true) {
-                    necklinecount++;
-                }
-                if (occassion == true) {
-                    occassioncount++;
-                }
-                if (shape == true) {
-                    shapecount++;
-                }
-                if (sleeve == true) {
-                    sleevecount++;
-                }
-                if (weather == true) {
-                    weathercount++;
-                }
+               ;
                 
+                
+              
                 ++key;
                 System.out.println();
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
+//bonus task
 
     }
 }
