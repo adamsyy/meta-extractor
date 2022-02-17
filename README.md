@@ -1,5 +1,5 @@
 # META EXTRACTOR
-This jave project is used to extract structured metadata from the
+This java project is used to extract structured metadata from the
 products collected from different brand websites. 
 </br>
 </br>
