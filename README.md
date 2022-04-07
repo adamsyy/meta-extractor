@@ -5,7 +5,7 @@ products collected from different brand websites.
 </br>
 Structured metadata for is simply a set of
 key value pairs that describe any given product, 
-for example - (SLEEVE=SLEEVELESS),(LENGTH=MINI), (MATERIAL=COTTON). This is critical for creating a good recommendation
+for example - (SLEEVE=SLEEVELESS), (LENGTH=MINI), (MATERIAL=COTTON). This is critical for creating a good recommendation
 engine.
 </br>
 </br>
